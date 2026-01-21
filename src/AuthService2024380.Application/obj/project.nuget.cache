@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lzC01K6l95M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Informatica\\Downloads\\AuthServiceCrhistianSican 1\\AuthServiceCrhistianSican\\src\\AuthService2024328.Application\\AuthService2024328.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Informatica\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.2\\microsoft.extensions.dependencyinjection.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\Informatica\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.2\\microsoft.extensions.logging.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\Informatica\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.2\\system.diagnostics.diagnosticsource.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

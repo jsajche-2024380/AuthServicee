@@ -1,0 +1,15 @@
+C:\Users\sican\OneDrive\Desktop\AuthServiceCrhistianSican\src\AuthService2024328.Application\bin\Debug\net8.0\AuthService2024328.Application.deps.json
+C:\Users\sican\OneDrive\Desktop\AuthServiceCrhistianSican\src\AuthService2024328.Application\bin\Debug\net8.0\AuthService2024328.Application.dll
+C:\Users\sican\OneDrive\Desktop\AuthServiceCrhistianSican\src\AuthService2024328.Application\bin\Debug\net8.0\AuthService2024328.Application.pdb
+C:\Users\sican\OneDrive\Desktop\AuthServiceCrhistianSican\src\AuthService2024328.Application\bin\Debug\net8.0\AuthService2024328.Domain.dll
+C:\Users\sican\OneDrive\Desktop\AuthServiceCrhistianSican\src\AuthService2024328.Application\bin\Debug\net8.0\AuthService2024328.Domain.pdb
+C:\Users\sican\OneDrive\Desktop\AuthServiceCrhistianSican\src\AuthService2024328.Application\obj\Debug\net8.0\AuthService2024328.Application.csproj.AssemblyReference.cache
+C:\Users\sican\OneDrive\Desktop\AuthServiceCrhistianSican\src\AuthService2024328.Application\obj\Debug\net8.0\AuthService2024328.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sican\OneDrive\Desktop\AuthServiceCrhistianSican\src\AuthService2024328.Application\obj\Debug\net8.0\AuthService2024328.Application.AssemblyInfoInputs.cache
+C:\Users\sican\OneDrive\Desktop\AuthServiceCrhistianSican\src\AuthService2024328.Application\obj\Debug\net8.0\AuthService2024328.Application.AssemblyInfo.cs
+C:\Users\sican\OneDrive\Desktop\AuthServiceCrhistianSican\src\AuthService2024328.Application\obj\Debug\net8.0\AuthService2024328.Application.csproj.CoreCompileInputs.cache
+C:\Users\sican\OneDrive\Desktop\AuthServiceCrhistianSican\src\AuthService2024328.Application\obj\Debug\net8.0\AuthServ.21D5F5E4.Up2Date
+C:\Users\sican\OneDrive\Desktop\AuthServiceCrhistianSican\src\AuthService2024328.Application\obj\Debug\net8.0\AuthService2024328.Application.dll
+C:\Users\sican\OneDrive\Desktop\AuthServiceCrhistianSican\src\AuthService2024328.Application\obj\Debug\net8.0\refint\AuthService2024328.Application.dll
+C:\Users\sican\OneDrive\Desktop\AuthServiceCrhistianSican\src\AuthService2024328.Application\obj\Debug\net8.0\AuthService2024328.Application.pdb
+C:\Users\sican\OneDrive\Desktop\AuthServiceCrhistianSican\src\AuthService2024328.Application\obj\Debug\net8.0\ref\AuthService2024328.Application.dll
